@@ -9,7 +9,7 @@ import {
   Input,
   message,
   Modal,
-} from "antd";
+} from "antd"
 
 
 export default function usersManager() {
