@@ -1,10 +1,10 @@
 import "./index.css";
-import StudentsManager from "./components/StudentsManager";
+import usersManager from "./usersManager";
 
 function App() {
   return (
     <>
-      <StudentsManager/>
+      <usersManager/>
     </>
   );
 }
