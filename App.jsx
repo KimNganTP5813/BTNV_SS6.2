@@ -1,5 +1,5 @@
 import "./index.css";
-import usersManager from "./usersManager";
+import usersManager from "./usersManager"
 
 function App() {
   return (
